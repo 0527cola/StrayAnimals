@@ -30,28 +30,28 @@
         <beam.web.version>1.0.0</beam.web.version>
         <beam.dynamic.version>1.0.0</beam.dynamic.version>
 		<mybatis-plus-boot-starter.version>3.2.0</mybatis-plus-boot-starter.version>
-		<swagger.version>2.9.2</swagger.version>
-		<fastjson.version>1.2.55</fastjson.version>
+		<swagger.version>2.10.0</swagger.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<ehcache.core.version>2.6.11</ehcache.core.version>
 		<google.zxing.version>3.2.1</google.zxing.version>
-		<mysql-connector-java.version>8.0.11</mysql-connector-java.version>
+		<mysql-connector-java.version>8.0.28</mysql-connector-java.version>
 		<commons-lang3.version>3.3.2</commons-lang3.version>
-		<commons-io-version>2.5</commons-io-version>
+		<commons-io-version>2.7</commons-io-version>
 		<jwt.version>0.9.0</jwt.version>
-		<shiro.version>1.4.0</shiro.version>
+		<shiro.version>1.13.0</shiro.version>
 		<ehcache.version>3.3.1</ehcache.version>
 		<kaptcha.version>2.3.2</kaptcha.version>
-		<quartz.version>2.3.0</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<mp3spi.version>1.9.5.4</mp3spi.version>
 		<qiniu.version>[7.2.0, 7.2.99]</qiniu.version>
 		<aliyun.oss.version>2.5.0</aliyun.oss.version>
 		<qcloud.cos.version>4.4</qcloud.cos.version>
 		<lombok.version>1.16.12</lombok.version>
-		<hibernate.validator.version>6.0.2.Final</hibernate.validator.version>
+		<hibernate.validator.version>6.0.20.Final</hibernate.validator.version>
 		<dubbo.version>0.2.0</dubbo.version>
-		<email.version>1.3.3</email.version>
+		<email.version>1.5</email.version>
 		<disruptor.version>3.4.1</disruptor.version>
-		<redisson.version>3.5.0</redisson.version>
+		<redisson.version>3.22.0</redisson.version>
 		<easyexcel.version>2.0.3</easyexcel.version>
 		<weixin-popular.version>2.8.28</weixin-popular.version>
 		<bcprov-jdk15on.version>1.56</bcprov-jdk15on.version>
